@@ -40,11 +40,11 @@ Existem também 2 desafios que ocorrem ao se recorrer a métodos eletrônicos de
   Através desta identidade é possível reconhecer a autoria dos atos praticados pelo usuário utilizando a nossa plataforma.
 
   
-* Sobre os controles para a prova de autoria: http://docs.originalmy.com/pt_BR/latest/20-contratos.html#controles-de-seguranca-para-a-assinatura-de-contratos
+* Sobre os controles para a prova de autoria: https://originalmy.readthedocs.io/pt_BR/latest/20-contratos.html#controles-de-seguranca-para-a-assinatura-de-contratos
 
-* Sobre a validação de identidade: http://docs.originalmy.com/pt_BR/latest/23-identidade.html
+* Sobre a validação de identidade: https://originalmy.readthedocs.io/pt_BR/latest/23-identidade.html
 
-* Sugestões para reforçar a validade jurídica do contrato: http://docs.originalmy.com/pt_BR/latest/80-recomendacoes.html#contratos
+* Sugestões para reforçar a validade jurídica do contrato: https://originalmy.readthedocs.io/pt_BR/latest/80-recomendacoes.html#contratos
 
 
 
